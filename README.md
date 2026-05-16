@@ -1,5 +1,10 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 
+### DATE: 16-5-2026
+```
+NAME: Lidison Sham M
+REGISTER NUMBER: 212224040171
+```
+
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +31,9 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+   <img width="812" height="676" alt="image" src="https://github.com/user-attachments/assets/7395da20-11fb-4e7e-9144-717fa8f33094" />
+<img width="981" height="747" alt="image" src="https://github.com/user-attachments/assets/eb991c0b-a265-4c32-a50f-f3a20541bd92" />
+<img width="1225" height="837" alt="image" src="https://github.com/user-attachments/assets/609287be-582e-4699-a7bb-eb99bc3eaf57" />
 
 ### Result:
+Thus, sentimental analysis for the given data using Rapidminer is done successfully.
